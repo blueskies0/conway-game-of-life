@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "platform": "meoo",
+  "exportDate": "2026-07-15T13:15:42.188Z",
+  "projectType": "create-desktop",
+  "framework": "react",
+  "builder": "vite",
+  "sourceProjectId": "gw7br03nq30z",
+  "signature": "44a892e53bb2a67a114edfafe2b1315bd5084a32ddef8f66c08cac1bacd35c18"
+}

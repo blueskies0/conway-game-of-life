@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "content": "创建项目结构和类型定义",
+    "status": "in_progress",
+    "priority": "high"
+  },
+  {
+    "id": "2",
+    "content": "实现上百种预设模板（滑翔机、脉冲星、Gosper滑翔机枪等）",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": "3",
+    "content": "实现生命游戏核心逻辑",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": "4",
+    "content": "创建Canvas渲染组件",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": "5",
+    "content": "实现模板搜索和分类功能",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": "6",
+    "content": "实现控制面板（播放/暂停/单步/随机/清空）",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": "7",
+    "content": "实现网格点击编辑功能",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": "8",
+    "content": "添加深色主题和发光效果",
+    "status": "pending",
+    "priority": "low"
+  },
+  {
+    "id": "9",
+    "content": "运行测试",
+    "status": "pending",
+    "priority": "high"
+  }
+]
