@@ -1,8 +1,3 @@
-# Meoo 项目开发指南
-
-本项目从 [Meoo](https://meoo.space) 平台导出，修改后可重新导入。
-以下规则确保项目能被平台正确识别和恢复，请在使用本地 AI 工具（Cursor / Copilot / Claude Code 等）开发时遵守。
-
 ## 启动项目
 
 ```bash
